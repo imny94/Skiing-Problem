@@ -25,7 +25,6 @@ import time
 start_time = time.time()
 
 input_file = "map.txt"
-# input_file = "skiing_in_Singapore_test_file.txt"
 grid = []
 grid_rows, grid_cols = 0,0
 longest_path = []
